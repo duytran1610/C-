@@ -1,0 +1,6 @@
+﻿  matrix.cpp
+D:\Study C++\Project2\Project2\matrix.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+D:\Study C++\Project2\Project2\matrix.cpp(58,11): warning C4018: '>=': signed/unsigned mismatch
+D:\Study C++\Project2\Project2\matrix.cpp(58,21): warning C4018: '>=': signed/unsigned mismatch
+D:\Study C++\Project2\Project2\matrix.cpp(134,23): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> D:\Study C++\Project2\Debug\Project2.exe
