@@ -1,0 +1,6 @@
+﻿  City.cpp
+  Funcion.cpp
+D:\Study C++\Project6\Project6\Funcion.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Project6.vcxproj -> D:\Study C++\Project6\Debug\Project6.exe
